@@ -6,6 +6,7 @@ description: se cour est un test
 featuredpost: true
 featuredimage: /img/banniere-teste-2.png
 tags:
-  - cour
+  - flavor
+  - tasting
 ---
 **cour test**
