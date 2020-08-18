@@ -25,7 +25,7 @@ export const IndexPageTemplate = ({
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
       }}
-    >
+    > 
       <div
         style={{
           display: 'flex',
